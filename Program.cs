@@ -1,25 +1,4 @@
-# Geometry
-#### you can work geometric problems in this program.
-
-==============================
-
-
-# CODE
-
-![Home page](/image%20or%20gif/photo_2024-03-05_21-33-52.jpg)
-
-
-
-# Procedure
-
-![Home Page](/image%20or%20gif/running.gif)
-
-
-
-
-# CODE 
-
-```csharp
+﻿// See https://aka.ms/new-console-template for more information
 using System.Globalization;
 
 Hi:
@@ -77,4 +56,3 @@ if(d == "ha"){
 else{
 System.Console.WriteLine("Ish TUXTATILDI :)");
 }
-```
